@@ -1,5 +1,5 @@
 ![1683000242930](https://user-images.githubusercontent.com/112707550/236666476-312eb2dc-1a8d-4812-afeb-3c428107009f.jpeg)
-<h1 align="center">Hi 👋, I'm Ronak Vala</h1>
+<h1 align="center">Hi 👋, I'm himani pathak</h1>
 <h3 align="center">A Data Enthusiast specializing in Python,Machine learning,Deep Learning,NLP,Computer Vision</h3>
 <img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
  
