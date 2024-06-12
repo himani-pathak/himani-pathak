@@ -11,7 +11,7 @@
  
 - 🌱 I’m currently learning **TensorFlow,pyTorch**
  
-- 💬 Ask me about **Machine Learning,Deep Learning,ComputerVision,Python,NLP**
+- 💬 Ask me about **Machine Learning,Deep Learning,ComputerVision,Python,NLP,Generative AI ,LLM**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
